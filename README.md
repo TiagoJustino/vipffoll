@@ -1,6 +1,7 @@
 # Vipffoll
 
-TODO: Write a gem description
+Vipffoll (VIdeo Player For FOreign Language Learners) is a video player based
+on the website lyricstraining.com where you learn foreign languages having fun.
 
 ## Installation
 
@@ -18,7 +19,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Coming soon. The player is still in development. There is no usable release
+yet. We are working on that. =)
 
 ## Contributing
 
